@@ -1,0 +1,217 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/ApplicationMain$.class
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/ApplicationMain$delayedInit$body.class
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/ApplicationMain.class
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$$anonfun$receiveCommand$1$$anonfun$applyOrElse$1.class
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$$anonfun$receiveCommand$1.class
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$$anonfun$receiveRecover$1.class
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$.class
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$CountUp$.class
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$CountUp.class
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$Increased$.class
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$Increased.class
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor.class
+binary dependencies:
+7 items
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre/lib/rt.jar
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> /Users/s/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> /Users/s/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre/lib/rt.jar
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/.ivy2/cache/com.typesafe.akka/akka-persistence_2.11/jars/akka-persistence_2.11-2.4.0.jar
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> /Users/s/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> /Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain$
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain$delayedInit$body
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> com.example.persistence.CountUpActor
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> com.example.persistence.CountUpActor$
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> com.example.persistence.CountUpActor$$anonfun$receiveCommand$1
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> com.example.persistence.CountUpActor$$anonfun$receiveCommand$1$$anonfun$applyOrElse$1
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> com.example.persistence.CountUpActor$$anonfun$receiveRecover$1
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> com.example.persistence.CountUpActor$CountUp
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> com.example.persistence.CountUpActor$CountUp$
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> com.example.persistence.CountUpActor$Increased
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> com.example.persistence.CountUpActor$Increased$
+used names:
+90 items
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> !
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> <init>
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> ActorSystem
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> App
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> ApplicationMain
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> Await
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> CountUp
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> CountUpActor
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> Duration
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> Inf
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> actor
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> actorOf
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> actorRef2Scala
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> akka
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> apply
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> com
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> concurrent
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> duration
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> example
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> package
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> persistence
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> props
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> qual$1
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> qual$2
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> qual$3
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> result
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> scala
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> system
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> whenTerminated
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> x$1
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> x$2
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> x$3
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> x$4
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> x$5
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> x$6
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> &&
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> +
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> <init>
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> ==
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> A1
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> AbstractFunction1
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> ActorLogging
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> AnyRef
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> B1
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> ClassTag
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> CountUp
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> CountUpActor
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> Function1
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> Increased
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> Int
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> None
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> PersistentActor
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> Predef
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> Product
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> Props
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> Receive
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> ScalaRunTime
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> Serializable
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> Statics
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> String
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> _toString
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> actor
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> akka
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> apply
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> asInstanceOf
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> com
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> count
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> count_=
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> diff
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> eq
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> event
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> example
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> finalizeHash
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> info
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> isInstanceOf
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> log
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> materializeClassTag
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> mix
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> name
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> package
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> path
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> persist
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> persistence
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> runtime
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> scala
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> self
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> toString
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> typedProductIterator
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> unchecked
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> ||
+product stamps:
+12 items
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/ApplicationMain$.class -> lastModified(1445961775000)
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/ApplicationMain$delayedInit$body.class -> lastModified(1445961775000)
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/ApplicationMain.class -> lastModified(1445961775000)
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$$anonfun$receiveCommand$1$$anonfun$applyOrElse$1.class -> lastModified(1445966127000)
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$$anonfun$receiveCommand$1.class -> lastModified(1445966127000)
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$$anonfun$receiveRecover$1.class -> lastModified(1445966127000)
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$.class -> lastModified(1445966126000)
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$CountUp$.class -> lastModified(1445966127000)
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$CountUp.class -> lastModified(1445966127000)
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$Increased$.class -> lastModified(1445966127000)
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor$Increased.class -> lastModified(1445966127000)
+/Users/s/akka/akka-persistence-example/target/scala-2.11/classes/com/example/persistence/CountUpActor.class -> lastModified(1445966127000)
+source stamps:
+2 items
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> hash(c9441276c63139e6c7f8b4cdf90969b853ab9eb4)
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> hash(f729ec14f965eb894b79230ff7c2d8c0d1a1cc63)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1393932208000)
+/Users/s/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar -> lastModified(1443601439000)
+/Users/s/.ivy2/cache/com.typesafe.akka/akka-persistence_2.11/jars/akka-persistence_2.11-2.4.0.jar -> lastModified(1443601536000)
+/Users/s/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/s/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar -> akka.actor.ActorLogging
+/Users/s/.ivy2/cache/com.typesafe.akka/akka-persistence_2.11/jars/akka-persistence_2.11-2.4.0.jar -> akka.persistence.PersistentActor
+/Users/s/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction1
+internal apis:
+2 items
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAK1QYNAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJyj7id0AAZub3RpZnlzcQB+AAwv6K3odAAFYWN0b3JzcQB+AAy7Lrh2dAAEd2FpdHNxAH4ADERyjFp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMyxd4N3QABnN5c3RlbXNxAH4ADP2PMqR0AAZlcXVhbHNzcQB+AAwGRSrzdAAMYXNJbnN0YW5jZU9mc3EAfgAMeSd9InQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMoDdb6XQADHN5bmNocm9uaXplZHNxAH4ADFJadq90AA0kaXNJbnN0YW5jZU9mc3EAfgAM7xQLYXQABG1haW5zcQB+AAzUISuodAAJbm90aWZ5QWxsc3EAfgAMZVUlynQADGlzSW5zdGFuY2VPZnNxAH4ADMfquQ10AAI9PXNxAH4ADOMeVr50AA9BcHBsaWNhdGlvbk1haW5zcQB+AAxhfWXBdAAFY2xvbmVzcQB+AAw4wqfHdAAIdG9TdHJpbmdzcQB+AAxryeymdAAEYXJnc3NxAH4ADMxy+Gh0AAIhPXNxAH4ADCyjYZN0AAhnZXRDbGFzc3NxAH4ADJdfvtR0AAJuZXNxAH4ADAeECtR0AAJlcXNxAH4ADNopNqR0AAtkZWxheWVkSW5pdHNxAH4ADDzBETV0AAIjI3NxAH4ADHCeAg50AAhmaW5hbGl6ZXNxAH4ADEs3HZR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABtjb20uZXhhbXBsZS5BcHBsaWNhdGlvbk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGUBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AbHNxAH4AZQF1cQB+AEYAAAAAcHNxAH4AZQF1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHZ4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Aa3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCQc3EAfgBYAHEAfgAjdXEAfgBbAAAAAHNxAH4Ag3QABFVuaXRxAH4AiXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF50AAVQbGFpbnEAfgAxc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCEWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBrc3EAfgCDdAAFQXJyYXlxAH4AiXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCDdAAGU3RyaW5nc3EAfgCHc3EAfgCKdXEAfgCNAAAAA3NxAH4Aj3QABGphdmFzcQB+AI90AARsYW5ncQB+AJRwc3EAfgBlAXVxAH4AqwAAAARzcQB+AIN0AANBcHBxAH4AiXNxAH4Ag3QAC0RlbGF5ZWRJbml0cQB+AIlzcQB+AIN0AAZPYmplY3RxAH4Ar3NxAH4Ag3QAA0FueXEAfgCJcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb20uZXhhbXBsZXNxAH4AwnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKoJqK51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAL1VzZXJzL3MvYWtrYS9ha2thLXBlcnNpc3RlbmNlLWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMlEEnbGMTnmx/i0zfkJabhTq560
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBONio4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwQF7PnQABHNlbGZzcQB+AAuHtXT/dAAHY29udGV4dHVxAH4ACQAAAFdzcQB+AAslvkccdAAHdW5zdGFzaHNxAH4AC2Mm9QR0AAZub3RpZnlzcQB+AAvo2zJVdAAHdW5hcHBseXNxAH4AC3c/V650AA9kZWxldGVTbmFwc2hvdHNzcQB+AAvyBSKMdAAHUmVjZWl2ZXNxAH4ACwB6jXt0AAVzdGFzaHNxAH4AC3yfoIN0AAVjb3VudHNxAH4ACw95CWB0AA9wZXJzaXN0QWxsQXN5bmNzcQB+AAtkAQuYdAAEd2FpdHNxAH4AC5Qvtj10AA0kYXNJbnN0YW5jZU9mc3EAfgALN9KNVHQADXNuYXBzaG90dGVySWRzcQB+AAt/O+/fdAAHcHJlcGVuZHNxAH4AC5Ej23l0AAdjb21wb3Nlc3EAfgALwqNJHXQADHByb2R1Y3RBcml0eXNxAH4AC9SLFNt0AAZlcXVhbHNzcQB+AAur3CCGdAAKZGVmZXJBc3luY3NxAH4AC0UCaa50AA5kZWxldGVNZXNzYWdlc3NxAH4AC0AlVjN0AAdDb3VudFVwc3EAfgALb6aKmnQAEnNuYXBzaG90U2VxdWVuY2VOcnNxAH4AC7C5pVZ0AAxhc0luc3RhbmNlT2ZzcQB+AAv+aVOLdAAHam91cm5hbHNxAH4AC5bbZjd0AApjbGVhclN0YXNoc3EAfgALH6oofHQACnBlcnNpc3RBbGxzcQB+AAv+srXadAAMc3luY2hyb25pemVkc3EAfgALPZV9CHQADENvdW50VXBBY3RvcnNxAH4AC/rQPll0AAxsb2FkU25hcHNob3RzcQB+AAtyEzdJdAAPcmVjb3ZlcnlSdW5uaW5nc3EAfgALbiw/NHQADSRpc0luc3RhbmNlT2ZzcQB+AAvsbd0bdAAHYW5kVGhlbnNxAH4ACzYgWXJ0AAdyZWNlaXZlc3EAfgALEOUQ23QACnByZVJlc3RhcnRzcQB+AAsEdJLqdAAHbWFpbGJveHNxAH4ACzLlFnd0AA1hcm91bmRSZWNlaXZlc3EAfgALgomP4HQACGNhbkVxdWFsc3EAfgALsPEArXQAC3Bvc3RSZXN0YXJ0c3EAfgALP5zA5XQAD29uUmVwbGF5U3VjY2Vzc3NxAH4AC8+GOXB0AAhwb3N0U3RvcHNxAH4AC1fhcYB0ABFvblBlcnNpc3RSZWplY3RlZHNxAH4ACwE7jT50AA1wcm9kdWN0UHJlZml4c3EAfgALK1mNRnQACW5vdGlmeUFsbHNxAH4AC+mzvVB0AAtyZWFkUmVzb2x2ZXNxAH4AC+xR1PJ0AAtjcmVhdGVTdGFzaHNxAH4AC+HbQ+B0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC1cGvc50AAxpc0luc3RhbmNlT2ZzcQB+AAuMGS8kdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC9rlXu90ABBvblBlcnNpc3RGYWlsdXJlc3EAfgALAbMl9XQADHNhdmVTbmFwc2hvdHNxAH4AC3kSk7R0AA5hcm91bmRQb3N0U3RvcHNxAH4AC2T9lKt0AAhyZWNvdmVyeXNxAH4AC69Afy50ABByZWNvdmVyeUZpbmlzaGVkc3EAfgALFNspOXQAB3BlcnNpc3RzcQB+AAvyAEgadAAGPGluaXQ+c3EAfgALNl/o13QACHByZVN0YXJ0c3EAfgALVhPKznQACXVuaGFuZGxlZHNxAH4ACyQ4rop0AAVhcHBseXNxAH4ACwciTPx0AARkaWZmc3EAfgALl+Tth3QAAj09c3EAfgALL6DXfXQADnJlY2VpdmVSZWNvdmVyc3EAfgALa95agnQABWNsb25lc3EAfgALzfolI3QADmRlbGV0ZVNuYXBzaG90c3EAfgALwFImRHQACUluY3JlYXNlZHNxAH4ACy9RXbx0AAxwZXJzaXN0QXN5bmNzcQB+AAuH8Qm9dAAEY29weXNxAH4AC2vfVa50AAZzZW5kZXJzcQB+AAtfjUHldAAIdG9TdHJpbmdzcQB+AAv2apKFdAAKdW5zdGFzaEFsbHNxAH4AC84ymit0AAIhPXNxAH4AC29bCo90AA9qb3VybmFsUGx1Z2luSWRzcQB+AAv/w8pidAAIZ2V0Q2xhc3NzcQB+AAu8VDRVdAAOY29weSRkZWZhdWx0JDFzcQB+AAsqr8KvdAAFcHJvcHNzcQB+AAti4/wpdAAOcmVjZWl2ZUNvbW1hbmRzcQB+AAtZrXecdAACbmVzcQB+AAv7qqONdAAQc25hcHNob3RQbHVnaW5JZHNxAH4ACwcGSP10AA1wZXJzaXN0ZW5jZUlkc3EAfgALIv3OgHQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC4nSuQJ0AAJlcXNxAH4AC6zJDtp0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAsHK2k1dAADbG9nc3EAfgAL85lI4HQADmxhc3RTZXF1ZW5jZU5yc3EAfgAL+CTpwnQADXNuYXBzaG90U3RvcmVzcQB+AAsenFKndAACIyNzcQB+AAsZ2tTVdAAIZmluYWxpemVzcQB+AAvyJ3GydAAOcHJvZHVjdEVsZW1lbnRzcQB+AAuRe1H3dAAIaGFzaENvZGVzcQB+AAsQJiOZdAAOYXJvdW5kUHJlU3RhcnRzcQB+AAuomaKidAARb25SZWNvdmVyeUZhaWx1cmVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgDJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAkY29tLmV4YW1wbGUucGVyc2lzdGVuY2UuQ291bnRVcEFjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAQc2NhbGEuZGVwcmVjYXRlZHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgDiAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgDJTAAJaW5oZXJpdGVkcQB+AMlMAAdwYXJlbnRzcQB+AMl4cQB+AOlzcQB+AOIBdXEAfgDEAAAAAHBzcQB+AOIBdXEAfgDEAAAAAHBzcQB+AOIBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAA5zcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDodAAMQWN0b3JMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDoc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgEBdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BAnNxAH4A9XQAD1BlcnNpc3RlbnRBY3RvcnNxAH4A+XNxAH4A/HVxAH4A/wAAAANzcQB+AQF0AARha2thc3EAfgEBdAALcGVyc2lzdGVuY2VxAH4BCHNxAH4A9XQADEV2ZW50c291cmNlZHEAfgELc3EAfgD1dAATUGVyc2lzdGVuY2VSZWNvdmVyeXEAfgELc3EAfgD1dAATUGVyc2lzdGVuY2VJZGVudGl0eXEAfgELc3EAfgD1dAAMU3Rhc2hGYWN0b3J5cQB+APtzcQB+APV0AAVTdGFzaHEAfgD7c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgD2WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDoc3EAfgD1dAAUUmVxdWlyZXNNZXNzYWdlUXVldWVzcQB+APlzcQB+APx1cQB+AP8AAAADc3EAfgEBdAAEYWtrYXNxAH4BAXQACGRpc3BhdGNocQB+AQh1cQB+APMAAAABc3EAfgD1dAAfRGVxdWVCYXNlZE1lc3NhZ2VRdWV1ZVNlbWFudGljc3EAfgEhc3EAfgD1dAARVW5yZXN0cmljdGVkU3Rhc2hxAH4A+3NxAH4A9XQADFN0YXNoU3VwcG9ydHEAfgD7c3EAfgD1dAALU25hcHNob3R0ZXJxAH4BC3NxAH4A9XQABUFjdG9ycQB+APtzcQB+APV0AAZPYmplY3RzcQB+APlzcQB+APx1cQB+AP8AAAADc3EAfgEBdAAEamF2YXNxAH4BAXQABGxhbmdxAH4BCHNxAH4A9XQAA0FueXNxAH4A+XNxAH4A/HVxAH4A/wAAAAJzcQB+AQF0AAVzY2FsYXEAfgEIcHBzcQB+AMZxAH4A03VxAH4A1AAAAABzcQB+ANYAdAAkY29tLmV4YW1wbGUucGVyc2lzdGVuY2UuQ291bnRVcEFjdG9ydXEAfgDZAAAAAH5xAH4A23QABk1vZHVsZXVxAH4A3wAAAABzcQB+AOIBcQB+AOpwc3EAfgDiAXNxAH4A7HNxAH4A4gF1cQB+AMQAAAAAcHNxAH4A4gF1cQB+AMQAAAAAcHNxAH4A4gF1cQB+APMAAAACc3EAfgD1cQB+ATRzcQB+APlzcQB+APx1cQB+AP8AAAADc3EAfgEBcQB+ATlzcQB+AQFxAH4BO3EAfgEIc3EAfgD1cQB+AT1zcQB+APlzcQB+APx1cQB+AP8AAAACc3EAfgEBcQB+AUJxAH4BCHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAXY29tLmV4YW1wbGUucGVyc2lzdGVuY2VzcQB+AWF0AAtjb20uZXhhbXBsZXNxAH4BYXQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKpMDhx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABAL1VzZXJzL3MvYWtrYS9ha2thLXBlcnNpc3RlbmNlLWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPcp7BT5ZeuJS3kjD/fC2MDRocxj
+external apis:
+0 items
+source infos:
+2 items
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/ApplicationMain.scala -> 
+AAAAAAAAAAA=
+/Users/s/akka/akka-persistence-example/src/main/scala/com/example/persistence/CountUpActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKn/JNp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9zL2Fra2EvYWtrYS1wZXJzaXN0ZW5jZS1leGFtcGxlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKoAJ1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9zL2Fra2EvYWtrYS1wZXJzaXN0ZW5jZS1leGFtcGxlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKoJqK51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9zL2Fra2EvYWtrYS1wZXJzaXN0ZW5jZS1leGFtcGxlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKoL32N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9zL2Fra2EvYWtrYS1wZXJzaXN0ZW5jZS1leGFtcGxlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKpMDhx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9zL2Fra2EvYWtrYS1wZXJzaXN0ZW5jZS1leGFtcGxlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
